@@ -107,7 +107,7 @@ Main.writeString(jsonFromXml, "data2.json");
 
 ### Клонирование репозитория
 ```bash
-git clone https://github.com/vladimir/csv-json-parser.git
+git clone https://github.com/vlzov/csv-json-parser.git
 cd csv-json-parser
 ```
 
